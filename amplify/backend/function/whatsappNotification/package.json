@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-notification",
+  "version": "1.0.0",
+  "description": "Lambda function to send WhatsApp notifications for Ganesh Utsav contributions",
+  "main": "index.js",
+  "dependencies": {
+    "twilio": "^4.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lambda",
+    "whatsapp",
+    "twilio",
+    "ganesh-utsav"
+  ],
+  "author": "",
+  "license": "ISC"
+} 
